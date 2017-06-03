@@ -35,12 +35,19 @@ h1#child  {
     #facet {
         height: 50%; 
     }
-}
-@media (max-width: 992px) {
+
     
     #child {
         color: black;
         text-align: center;
         font-family: sans-serif;
+        
     }
 }
+
+
+/*@media (min-width: 992px) and (max-width: 1170px) {
+     {width: 48%;
+    }
+    
+}*/
